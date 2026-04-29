@@ -4,7 +4,7 @@ This project explores **NYC residential sale prices** across boroughs from 2014 
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Analyze NYC residential sale records (2014–2024)
 - Clean and standardize large Excel datasets from NYC open data
@@ -14,22 +14,19 @@ This project explores **NYC residential sale prices** across boroughs from 2014 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 nyc-housing-affordability/
 │
 ├── data/ # Raw and cleaned datasets
-├── notebooks/ # Analysis notebooks
-├── scripts/ # Data cleaning scripts & utilities
+├── notebooks/ # Analysis notebooks and data cleaning scripts
 ├── visuals/ # Charts, plots, and generated visuals
 ├── README.md # You are here
 └── .gitignore
 ---
 
 
-## 🧹 Data Cleaning
-
-NYC sale files are messy, inconsistent, and formatted differently year-to-year.  
+## Data Cleaning
 This project includes:
 
 - Standardizing column names
@@ -48,7 +45,7 @@ Data cleaning is done using:
 
 ---
 
-## 📊 Key Visuals
+## Visuals
 
 Below are some of the visuals generated in this project (kept in the `visuals/` folder):
 - Borough Median Sale Price Percent Change (2014-2024)
